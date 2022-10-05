@@ -14161,6 +14161,7 @@ button[type=submit] i {
   transition: all 0.35s ease-in-out;
 }
 .navbar .site-menu ul li a {
+  font-family: Kodchasan;
   color: #fff;
   font-weight: 600;
   font-size: 17px;
