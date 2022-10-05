@@ -3848,19 +3848,24 @@ body {
 }
 
 .h2-baslik-anasayfa-ozel {
+  font-family: "Electromagnetic";
   font-size: 4rem;
-  font-weight: 600;
+  font-weight: 100;
   display: inline-block;
   background-image: linear-gradient(to right, #204883, #2f5b8a);
   -webkit-background-clip: text;
-  color: transparent;
   line-height: 1.3em;
+  color: rgb(108, 108, 108);
 }
 @media only screen and (max-width: 56.25em) {
   .h2-baslik-anasayfa-ozel {
     font-size: 5rem;
     margin-top: 11rem;
   }
+}
+.h2-baslik-anasayfa-ozel strong {
+  color: #424242;
+  font-weight: 600;
 }
 
 .h2-baslik-anasayfa-ozel-services {
@@ -3896,8 +3901,9 @@ body {
 }
 
 .h2-baslik-anasayfa-ozel1 {
-  font-size: 3rem;
-  font-weight: 600;
+  font-family: Electromagnetic;
+  font-size: 3.3rem;
+  font-weight: 400;
   display: inline-block;
   color: #a61e5e;
   line-height: 1.3em;
@@ -4056,6 +4062,7 @@ body {
   font-weight: 300;
   color: #616161;
   text-align: left;
+  font-family: OpenSans;
 }
 .paragraf-slider:not(:last-child) {
   margin-bottom: 2rem;
@@ -4111,6 +4118,7 @@ body {
 }
 
 .baslik-3s {
+  font-family: Kodchasan-bold;
   font-size: 1.8rem;
   font-weight: 600;
   color: #009499;
@@ -4285,9 +4293,11 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .paragraf {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   font-weight: 400;
   color: #616161;
+  font-family: OpenSans;
+  text-align: justify;
 }
 .paragraf a {
   color: #0c52aa;
@@ -4302,6 +4312,7 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .paragraf-info {
+  font-family: OpenSans;
   font-size: 1.4rem;
   font-weight: 400;
   color: #616161;
@@ -4374,9 +4385,10 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .paragraf-sol-s {
-  font-size: 1.4rem;
+  font-family: OpenSans;
+  font-size: 2rem;
   font-weight: 400;
-  color: #ffffff;
+  color: #333333;
   text-align: left;
 }
 .paragraf-sol-s a {
@@ -4461,6 +4473,7 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .h3-baslik-hizmet {
+  font-family: Kodchasan-bold;
   font-size: 2rem;
 }
 .h3-baslik-hizmet__paragraf {
@@ -4567,15 +4580,15 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .h2-baslik-hizmetler-2 {
-  font-size: 3rem;
-  font-weight: 600;
+  font-family: Kodchasan-bold;
+  font-weight: 900;
+  font-size: 3.5rem;
   display: inline-block;
   color: #a61e5e;
   text-align: center;
 }
 .h2-baslik-hizmetler-2__paragraf {
   font-size: 1.6rem;
-  font-weight: 400;
   color: #616161;
   text-align: center;
   margin-bottom: 3rem;
@@ -4646,7 +4659,8 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .h2-baslik-hizmetler-2-s {
-  font-size: 3rem;
+  font-family: Kodchasan-bold;
+  font-size: 3.4rem;
   font-weight: 700;
   display: inline-block;
   color: #ffffff;
@@ -4656,6 +4670,10 @@ h2.h3-baslik-anasayfa-beyaz {
   display: flex;
   justify-content: left;
   flex-wrap: wrap;
+}
+.h2-baslik-hizmetler-2-s strong {
+  font-weight: 900;
+  color: #424242;
 }
 .h2-baslik-hizmetler-2-s__paragraf {
   font-size: 1.6rem;
@@ -4738,7 +4756,8 @@ h2.h3-baslik-anasayfa-beyaz {
   letter-spacing: 0.1rem;
 }
 .h2-baslik-hizmetler-3__paragraf {
-  font-size: 1.6rem;
+  font-family: OpenSans;
+  font-size: 2rem;
   font-weight: 400;
   color: #616161;
   text-align: center;
@@ -5002,13 +5021,14 @@ details {
 }
 
 .h2-baslik-hizmetler-yorum {
+  font-family: OpenSans;
   font-size: 3rem;
   font-weight: 700;
   display: inline-block;
   color: #a61e5e;
 }
 .h2-baslik-hizmetler-yorum__yorum {
-  font-size: 1.6rem;
+  font-size: 2rem;
   font-weight: 400;
   color: #616161;
   text-align: center;
@@ -6364,6 +6384,7 @@ button.swiper-pagination-bullet {
 
 /* Slider Buton */
 .buton, .buton:link, .buton:visited {
+  font-family: Kodchasan;
   text-decoration: none;
   padding: 1.5rem 4rem;
   display: inline-block;
@@ -8518,7 +8539,7 @@ img.haber-gorsel {
 }
 .services-kutu2--yazi1 {
   text-align: center;
-  font-size: 1.6rem;
+  font-size: 2rem;
   font-weight: 400;
   color: #616161;
 }
@@ -12689,6 +12710,7 @@ button[type=submit] i {
 }
 
 .component-systemTabs .cards .card .cardContent h2 {
+  font-family: Electromagnetic;
   color: rgb(255, 255, 255);
   font-size: 2rem;
 }
@@ -13351,7 +13373,7 @@ img {
 }
 
 p {
-  font-family: "Barlow", sans-serif;
+  font-family: OpenSans;
 }
 
 /* FORM ELEMENTS */
@@ -13584,11 +13606,13 @@ button[type=submit] i {
   padding: 0;
 }
 
-.odometer.odometer-auto-theme .odometer-digit, .odometer.odometer-theme-car .odometer-digit {
+.odometer.odometer-auto-theme .odometer-digit,
+.odometer.odometer-theme-car .odometer-digit {
   padding: 0;
 }
 
-.odometer.odometer-auto-theme .odometer-digit .odometer-digit-inner, .odometer.odometer-theme-car .odometer-digit .odometer-digit-inner {
+.odometer.odometer-auto-theme .odometer-digit .odometer-digit-inner,
+.odometer.odometer-theme-car .odometer-digit .odometer-digit-inner {
   left: -4px;
 }
 
@@ -13616,12 +13640,13 @@ button[type=submit] i {
 }
 
 .custom-button {
+  font-family: Kodchasan-bold;
   height: 70px;
   line-height: 70px;
   display: inline-block;
-  background: #009499;
+  background: #A61E5E;
   color: #fff;
-  font-weight: 600;
+  font-weight: 100;
   border: 1px solid;
   padding: 0 50px;
   position: relative;
@@ -13644,7 +13669,7 @@ button[type=submit] i {
 .custom-button:hover {
   text-decoration: none;
   color: #fff;
-  background: #009499;
+  background: #6b133c;
 }
 .custom-button:hover:before {
   width: 100%;
@@ -14722,7 +14747,7 @@ hr {
 }
 
 /* ANIMATIONS
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .menu[data-animation=diagonal] .border-left {
   transform-origin: top left;
 }
@@ -15107,6 +15132,7 @@ hr {
   height: 109px;
 }
 .counter-box .odometer {
+  font-family: Kodchasan-bold;
   line-height: 1;
   margin: 0 auto;
   font-size: 100px;
@@ -15114,6 +15140,7 @@ hr {
   font-weight: 700;
 }
 .counter-box h6 {
+  font-family: Kodchasan-bold;
   width: 100%;
   height: 26px;
   line-height: 26px;
@@ -16109,7 +16136,6 @@ i.flaticon-mail {
 
 .iconpfooter {
   font-size: 30px;
-  float: left;
 }
 
 /*icon white*/
@@ -16859,12 +16885,14 @@ img.simg {
 
 .hizmet-kutu .kutu-duzen p {
   color: #666;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   text-align: center;
 }
 
 h3 a {
   color: #a61e5e;
+  font-family: Kodchasan-bold;
+  font-size: 1.1em;
 }
 
 h3 a:hover {
@@ -16991,6 +17019,8 @@ h3 a:hover {
 }
 
 .analiz-alani .inner-box .content-box h3 {
+  font-family: Electromagnetic;
+  font-weight: 600;
   margin-bottom: 12px;
   color: #009499;
 }
@@ -17017,6 +17047,7 @@ h3 a:hover {
 }
 
 .analiz-alani .content-box p {
+  font-family: OpenSans;
   color: #666;
   font-size: 1.4rem;
   text-align: center;
@@ -17089,6 +17120,7 @@ h3 a:hover {
 }
 
 .services-special .inner-box p {
+  font-family: OpenSans;
   margin-bottom: 15px;
   color: #666;
   font-size: 1.4rem;
@@ -17455,7 +17487,7 @@ p.countb {
 .footer .footer-info {
   width: 100%;
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   font-family: "Barlow", sans-serif;
 }
 .footer .footer-info a {
@@ -17498,6 +17530,7 @@ p.countb {
   border-color: transparent;
 }
 .footer .widget-title {
+  font-family: OpenSans;
   width: 100%;
   display: block;
   font-weight: 500;
@@ -17506,6 +17539,7 @@ p.countb {
   margin-bottom: 15px;
 }
 .footer .footer-menu {
+  font-family: OpenSans;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
