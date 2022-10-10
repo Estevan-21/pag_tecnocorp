@@ -12702,8 +12702,8 @@ button[type=submit] i {
   width: 100%;
   padding: 20px;
   border: 0.7rem solid transparent;
-  -o-border-image: linear-gradient(to right, #6aa7dd, #6aa7dd);
-     border-image: linear-gradient(to right, #6aa7dd, #6aa7dd);
+  -o-border-image: linear-gradient(to right, #30357d, #30357d);
+     border-image: linear-gradient(to right, #30357d, #30357d);
   border-image-slice: 1;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -15158,7 +15158,7 @@ hr {
   width: 93px;
   height: 8px;
   border-radius: 100px;
-  background: #1c437f;
+  background: #30357d;
   position: absolute;
   left: calc(50% - 45px);
   bottom: -18px;
@@ -16797,7 +16797,7 @@ img.simg {
 }
 
 .hizmet-kutu .kutu-duzen:hover {
-  background: #0c0c0c;
+  background: #30357d;
 }
 
 .hizmet-kutu .kutu-duzen:before {
@@ -16943,7 +16943,7 @@ h3 a:hover {
   text-align: center;
   border-radius: 50%;
   margin-bottom: 20px;
-  background: #000000;
+  background: #30357d;
 }
 
 .analiz-alani .inner-box .icon-box i {
@@ -17110,7 +17110,7 @@ h3 a:hover {
 .services-special .icon-box:before {
   position: absolute;
   content: "";
-  background: #000000;
+  background: #30357d;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -17157,7 +17157,7 @@ h3 a:hover {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background: #6f6f6f;
+  background: #6aa7dd;
   -webkit-animation: zoom-fade-two 5s infinite linear;
   animation: zoom-fade-two 5s infinite linear;
 }
@@ -17169,7 +17169,7 @@ h3 a:hover {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background: #6f6f6f;
+  background: #6aa7dd;
   -webkit-animation: zoom-fade-two 4s infinite linear;
   animation: zoom-fade-two 4s infinite linear;
 }
@@ -17181,7 +17181,7 @@ h3 a:hover {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background: #6f6f6f;
+  background: #6aa7dd;
   -webkit-animation: zoom-fade-two 3s infinite linear;
   animation: zoom-fade-two 3s infinite linear;
 }
