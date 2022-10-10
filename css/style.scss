@@ -404,7 +404,7 @@ button[type="submit"] {
 
 		&.swiper-pagination-bullet-active {
 			width: 6vw;
-			background: #009499;
+			background: $secondary-blue;
 			opacity: 1;
 		}
 	}
@@ -422,7 +422,7 @@ button[type="submit"] {
 	height: 70px;
 	line-height: 70px;
 	display: inline-block;
-	background: #A61E5E;
+	background: $main-blue;
 	color: #fff;
 	font-weight: 100;
 	border: 1px solid;
@@ -445,7 +445,7 @@ button[type="submit"] {
 	&:hover {
 		text-decoration: none;
 		color: #fff;
-		background: #6b133c;
+		background: $secondary-blue;
 	}
 
 	&:hover:before {
@@ -973,7 +973,7 @@ button[type="submit"] {
 	top: 0;
 	z-index: 5;
 	position: fixed;
-	background: black;
+	background: $main-blue;
 
 	.logo {
 		a {
@@ -4184,7 +4184,7 @@ img.simg {
 }
 
 h3 a {
-	color: #a61e5e;
+	color: $main-blue;
 	font-family: Kodchasan-bold;
 	font-size: 1.1em;
 }
@@ -4257,7 +4257,7 @@ h3 a:hover {
 .analiz-alani .inner-box .icon-box:before {
 	position: absolute;
 	content: '';
-	background: #009499;
+	background: $secondary-blue;
 	width: 100px;
 	height: 100px;
 	left: 0;
@@ -4265,7 +4265,7 @@ h3 a:hover {
 	opacity: 0;
 	transition: all 500ms ease;
 	border-radius: 50%;
-	border-color: #009499;
+	border-color: $secondary-blue;
 }
 
 .analiz-alani .inner-box:hover .icon-box:before {
@@ -4326,7 +4326,7 @@ h3 a:hover {
 	font-family: Electromagnetic;
 	font-weight: 600;
 	margin-bottom: 12px;
-	color: #009499;
+	color: $secondary-blue;
 }
 
 .analiz-stil .inner-content {
@@ -4890,7 +4890,7 @@ p.countb {
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
-	background-image: url(../img/footer-bg2.jpg);
+	background: $main-blue;
 	background-size: cover;
 
 	.logo {

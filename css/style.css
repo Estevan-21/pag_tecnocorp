@@ -391,7 +391,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #A61E5E;
+  background: #30357d;
 }
 
 ::-webkit-scrollbar {
@@ -606,7 +606,7 @@ body {
 
 .services1 {
   padding: 5rem 0 5rem;
-  background: transparent url(../img/Background3.jpg) center center/cover no-repeat scroll;
+  background: transparent url(../img/service-bg.png) center center/cover no-repeat scroll;
 }
 @media only screen and (max-width: 56.25em) {
   .services1 {
@@ -820,7 +820,7 @@ body {
 
 .markalar {
   padding: 6rem 0 6rem;
-  background: #b3b3b3;
+  background: #6aa7dd;
   background-size: cover;
   display: inline-block;
   width: 100%;
@@ -3905,7 +3905,7 @@ body {
   font-size: 3.3rem;
   font-weight: 400;
   display: inline-block;
-  color: #a61e5e;
+  color: #30357d;
   line-height: 1.3em;
 }
 @media only screen and (max-width: 56.25em) {
@@ -4121,7 +4121,7 @@ body {
   font-family: Kodchasan-bold;
   font-size: 1.8rem;
   font-weight: 600;
-  color: #009499;
+  color: #6aa7dd;
   text-align: left;
 }
 @media only screen and (max-width: 56.25em) {
@@ -4388,7 +4388,7 @@ h2.h3-baslik-anasayfa-beyaz {
   font-family: OpenSans;
   font-size: 2rem;
   font-weight: 400;
-  color: #333333;
+  color: #FFF;
   text-align: left;
 }
 .paragraf-sol-s a {
@@ -4584,7 +4584,7 @@ h2.h3-baslik-anasayfa-beyaz {
   font-weight: 900;
   font-size: 3.5rem;
   display: inline-block;
-  color: #a61e5e;
+  color: #30357d;
   text-align: center;
 }
 .h2-baslik-hizmetler-2__paragraf {
@@ -4673,7 +4673,7 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 .h2-baslik-hizmetler-2-s strong {
   font-weight: 900;
-  color: #424242;
+  color: #fff;
 }
 .h2-baslik-hizmetler-2-s__paragraf {
   font-size: 1.6rem;
@@ -5025,7 +5025,7 @@ details {
   font-size: 3rem;
   font-weight: 700;
   display: inline-block;
-  color: #a61e5e;
+  color: #30357d;
 }
 .h2-baslik-hizmetler-yorum__yorum {
   font-size: 2rem;
@@ -6418,12 +6418,12 @@ button.swiper-pagination-bullet {
   border: none;
 }
 .buton--beyaz {
-  background-color: #009499;
+  background-color: #6aa7dd;
   color: white;
   border-radius: 100px;
 }
 .buton--beyaz::after {
-  background-color: #009499;
+  background-color: #6aa7dd;
 }
 .buton--siyah {
   background-color: #444;
@@ -12702,8 +12702,8 @@ button[type=submit] i {
   width: 100%;
   padding: 20px;
   border: 0.7rem solid transparent;
-  -o-border-image: linear-gradient(to right, #009499, #009499);
-     border-image: linear-gradient(to right, #009499, #009499);
+  -o-border-image: linear-gradient(to right, #6aa7dd, #6aa7dd);
+     border-image: linear-gradient(to right, #6aa7dd, #6aa7dd);
   border-image-slice: 1;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -13630,7 +13630,7 @@ button[type=submit] i {
 }
 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
   width: 6vw;
-  background: #009499;
+  background: #6aa7dd;
   opacity: 1;
 }
 
@@ -13644,7 +13644,7 @@ button[type=submit] i {
   height: 70px;
   line-height: 70px;
   display: inline-block;
-  background: #A61E5E;
+  background: #30357d;
   color: #fff;
   font-weight: 100;
   border: 1px solid;
@@ -13669,7 +13669,7 @@ button[type=submit] i {
 .custom-button:hover {
   text-decoration: none;
   color: #fff;
-  background: #6b133c;
+  background: #6aa7dd;
 }
 .custom-button:hover:before {
   width: 100%;
@@ -14136,7 +14136,7 @@ button[type=submit] i {
   top: 0;
   z-index: 5;
   position: fixed;
-  background: black;
+  background: #30357d;
 }
 .navbar .logo a {
   display: inline-block;
@@ -16891,7 +16891,7 @@ img.simg {
 }
 
 h3 a {
-  color: #a61e5e;
+  color: #30357d;
   font-family: Kodchasan-bold;
   font-size: 1.1em;
 }
@@ -16958,7 +16958,7 @@ h3 a:hover {
 .analiz-alani .inner-box .icon-box:before {
   position: absolute;
   content: "";
-  background: #009499;
+  background: #6aa7dd;
   width: 100px;
   height: 100px;
   left: 0;
@@ -16966,7 +16966,7 @@ h3 a:hover {
   opacity: 0;
   transition: all 500ms ease;
   border-radius: 50%;
-  border-color: #009499;
+  border-color: #6aa7dd;
 }
 
 .analiz-alani .inner-box:hover .icon-box:before {
@@ -17023,7 +17023,7 @@ h3 a:hover {
   font-family: Electromagnetic;
   font-weight: 600;
   margin-bottom: 12px;
-  color: #009499;
+  color: #6aa7dd;
 }
 
 .analiz-stil .inner-content {
@@ -17472,7 +17472,7 @@ p.countb {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-image: url(../img/footer-bg2.jpg);
+  background: #30357d;
   background-size: cover;
 }
 .footer .logo {

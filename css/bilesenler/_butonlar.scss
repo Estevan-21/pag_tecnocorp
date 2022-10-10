@@ -44,12 +44,12 @@
     }
     
     &--beyaz{
-        background-color: #009499;
+        background-color: $secondary-blue;
         color: white;
         border-radius: 100px;
 
         &::after{
-            background-color: #009499;
+            background-color: $secondary-blue;
         
         }
     }

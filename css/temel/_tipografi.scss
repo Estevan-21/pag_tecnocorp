@@ -222,7 +222,7 @@ body {
     font-size: 3.3rem;
     font-weight: 400;
     display: inline-block;
-    color: #a61e5e;
+    color: $main-blue;
     line-height: 1.3em;
 
     @include responsive(tablet-kucuk) {
@@ -448,7 +448,7 @@ body {
     font-family: Kodchasan-bold;
     font-size: 1.8rem;
     font-weight: 600;
-    color: #009499;
+    color: $secondary-blue;
     text-align: left;
 
     @include responsive(tablet-kucuk) {
@@ -721,7 +721,7 @@ h2.h3-baslik-anasayfa-beyaz {
     font-family: OpenSans;
     font-size: 2rem;
     font-weight: 400;
-    color: #333333;
+    color: #FFF;
     text-align: left;
 
     a {
@@ -928,7 +928,7 @@ h2.h3-baslik-anasayfa-beyaz {
     font-weight: 900;
     font-size: 3.5rem;    
     display: inline-block;
-    color: #a61e5e;
+    color: $main-blue;
     text-align: center;
 
     &__paragraf {
@@ -1017,7 +1017,7 @@ h2.h3-baslik-anasayfa-beyaz {
 
     strong{
         font-weight: 900;
-        color: #424242;
+        color: #fff;
     }
 
     &__paragraf {
@@ -1359,7 +1359,7 @@ details {
     font-size: 3rem;
     font-weight: 700;
     display: inline-block;
-    color: #a61e5e;
+    color: $main-blue;
 
     &__yorum {
         font-size: 2rem;
