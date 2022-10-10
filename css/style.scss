@@ -635,7 +635,7 @@ button[type="submit"] {
 	z-index: 99999;
 	right: 0;
 	top: 0;
-	background: #000000;
+	background: $main-blue;
 	@include transition-cubic;
 
 	figure {
