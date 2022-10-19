@@ -391,7 +391,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #30357d;
+  background: #00008B;
 }
 
 ::-webkit-scrollbar {
@@ -3905,7 +3905,7 @@ body {
   font-size: 3.3rem;
   font-weight: 400;
   display: inline-block;
-  color: #30357d;
+  color: #00008B;
   line-height: 1.3em;
 }
 @media only screen and (max-width: 56.25em) {
@@ -4584,7 +4584,7 @@ h2.h3-baslik-anasayfa-beyaz {
   font-weight: 900;
   font-size: 3.5rem;
   display: inline-block;
-  color: #30357d;
+  color: #00008B;
   text-align: center;
 }
 .h2-baslik-hizmetler-2__paragraf {
@@ -4973,6 +4973,15 @@ details {
   }
 }
 
+.bosluk44 {
+  margin-bottom: 50px;
+}
+@media only screen and (max-width: 56.25em) {
+  .bosluk44 {
+    margin-top: -15rem;
+  }
+}
+
 @media only screen and (max-width: 56.25em) {
   .bosluk5 {
     margin-top: -40rem;
@@ -5020,12 +5029,30 @@ details {
   margin-top: 1rem;
 }
 
+.bosluk11 {
+  margin-top: 14rem;
+}
+@media screen and (min-width: 1000px) and (max-width: 1024px) {
+  .bosluk11 {
+    margin-top: 18rem;
+  }
+}
+@media screen and (min-width: 800px) and (max-width: 812px) {
+  .bosluk11 {
+    margin-top: 42rem;
+  }
+}
+@media screen and (min-width: 760px) and (max-width: 768px) {
+  .bosluk11 {
+    margin-top: -12rem;
+  }
+}
 .h2-baslik-hizmetler-yorum {
   font-family: OpenSans;
   font-size: 3rem;
   font-weight: 700;
   display: inline-block;
-  color: #30357d;
+  color: #00008B;
 }
 .h2-baslik-hizmetler-yorum__yorum {
   font-size: 2rem;
@@ -12702,8 +12729,8 @@ button[type=submit] i {
   width: 100%;
   padding: 20px;
   border: 0.7rem solid transparent;
-  -o-border-image: linear-gradient(to right, #30357d, #30357d);
-     border-image: linear-gradient(to right, #30357d, #30357d);
+  -o-border-image: linear-gradient(to right, #00008B, #00008B);
+     border-image: linear-gradient(to right, #00008B, #00008B);
   border-image-slice: 1;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -13644,7 +13671,7 @@ button[type=submit] i {
   height: 70px;
   line-height: 70px;
   display: inline-block;
-  background: #30357d;
+  background: #00008B;
   color: #fff;
   font-weight: 100;
   border: 1px solid;
@@ -13825,7 +13852,7 @@ button[type=submit] i {
   z-index: 99999;
   right: 0;
   top: 0;
-  background: #30357d;
+  background: #00008B;
   transition-duration: 1s;
   -webkit-transition-duration: 1s;
   transition-timing-function: cubic-bezier(0.86, 0, 0.09, 1);
@@ -14136,7 +14163,7 @@ button[type=submit] i {
   top: 0;
   z-index: 5;
   position: fixed;
-  background: #30357d;
+  background: #00008B;
 }
 .navbar .logo a {
   display: inline-block;
@@ -14471,6 +14498,10 @@ ul li ul li {
   border-radius: 0.3rem;
 }
 
+.title-banner {
+  font-family: electromagnetic;
+}
+
 /* PAGE HEADER */
 .page-header {
   width: 100%;
@@ -14507,6 +14538,7 @@ ul li ul li {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  font-family: kodchasan;
 }
 .page-header .container p {
   width: 100%;
@@ -15158,7 +15190,7 @@ hr {
   width: 93px;
   height: 8px;
   border-radius: 100px;
-  background: #30357d;
+  background: #00008B;
   position: absolute;
   left: calc(50% - 45px);
   bottom: -18px;
@@ -16798,7 +16830,7 @@ img.simg {
 }
 
 .hizmet-kutu .kutu-duzen:hover {
-  background: #30357d;
+  background: #00008B;
 }
 
 .hizmet-kutu .kutu-duzen:before {
@@ -16892,7 +16924,7 @@ img.simg {
 }
 
 h3 a {
-  color: #30357d;
+  color: #00008B;
   font-family: Kodchasan-bold;
   font-size: 1.1em;
 }
@@ -16944,7 +16976,7 @@ h3 a:hover {
   text-align: center;
   border-radius: 50%;
   margin-bottom: 20px;
-  background: #30357d;
+  background: #00008B;
 }
 
 .analiz-alani .inner-box .icon-box i {
@@ -17113,7 +17145,7 @@ h3 a:hover {
 .services-special .icon-box:before {
   position: absolute;
   content: "";
-  background: #30357d;
+  background: #00008B;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -17129,6 +17161,14 @@ h3 a:hover {
   color: #666;
   font-size: 1.4rem;
   text-align: center;
+  height: 155px;
+}
+
+.services-title {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .services-special .inner-box .btn-box .theme-btn.style-two {
@@ -17475,7 +17515,7 @@ p.countb {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background: #30357d;
+  background: #00008B;
   background-size: cover;
 }
 .footer .logo {

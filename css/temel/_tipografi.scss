@@ -1307,6 +1307,13 @@ details {
     }
 }
 
+.bosluk44 {
+    @include responsive(tablet-kucuk) {
+        margin-top: -15rem;
+    }
+    margin-bottom: 50px;
+}
+
 .bosluk5 {
     @include responsive(tablet-kucuk) {
         margin-top: -40rem;
@@ -1352,6 +1359,24 @@ details {
 
 .bosluk10 {
     margin-top: 1rem;
+}
+
+.bosluk11 {
+    margin-top: 14rem;
+
+    @media screen and (min-width: 1000px) and (max-width: 1024px) {
+        margin-top: 18rem;
+    }
+
+    @media screen and (min-width: 800px) and (max-width: 812px) {
+        margin-top: 42rem;
+    }
+
+    @media screen and (min-width: 760px) and (max-width: 768px) {
+        margin-top: -12rem;
+    }
+
+    @include responsive(tablet-kucuk) {}
 }
 
 .h2-baslik-hizmetler-yorum {
