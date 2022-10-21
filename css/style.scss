@@ -422,7 +422,7 @@ button[type="submit"] {
 	height: 70px;
 	line-height: 70px;
 	display: inline-block;
-	background: $main-blue;
+	background: $secondary-blue;
 	color: #fff;
 	font-weight: 100;
 	border: 1px solid;
@@ -2140,7 +2140,7 @@ hr {
 			width: 93px;
 			height: 8px;
 			border-radius: 100px;
-			background: $main-blue;
+			background: $brown-complementary;
 			position: absolute;
 			left: calc(50% - 45px);
 			bottom: -18px;
@@ -4092,7 +4092,7 @@ img.simg {
 }
 
 .hizmet-kutu .kutu-duzen:hover {
-	background: $main-blue;
+	background: $yellow-complementary;
 }
 
 .hizmet-kutu .kutu-duzen:before {
@@ -4190,7 +4190,7 @@ img.simg {
 }
 
 h3 a {
-	color: $main-blue;
+	color: $yellow-complementary;
 	font-family: Kodchasan-bold;
 	font-size: 1.1em;
 }
@@ -4246,7 +4246,7 @@ h3 a:hover {
 	text-align: center;
 	border-radius: 50%;
 	margin-bottom: 20px;
-	background: $main-blue;
+	background: $green-complementary-2;
 }
 
 .analiz-alani .inner-box .icon-box i {
@@ -4263,7 +4263,7 @@ h3 a:hover {
 .analiz-alani .inner-box .icon-box:before {
 	position: absolute;
 	content: '';
-	background: $secondary-blue;
+	background: $green-complementary;
 	width: 100px;
 	height: 100px;
 	left: 0;
@@ -4333,7 +4333,7 @@ h3 a:hover {
 	font-family: Electromagnetic;
 	font-weight: 600;
 	margin-bottom: 12px;
-	color: $secondary-blue;
+	color: $green-complementary-2;
 }
 
 .analiz-stil .inner-content {
