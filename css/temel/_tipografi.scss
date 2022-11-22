@@ -222,7 +222,7 @@ body {
     font-size: 3.3rem;
     font-weight: 400;
     display: inline-block;
-    color: $brown-complementary;
+    color: $secondary-blue;
     line-height: 1.3em;
 
     @include responsive(tablet-kucuk) {
@@ -928,7 +928,7 @@ h2.h3-baslik-anasayfa-beyaz {
     font-weight: 900;
     font-size: 3.5rem;    
     display: inline-block;
-    color: $green-complementary-2;
+    color: $secondary-blue;
     text-align: center;
 
     &__paragraf {
@@ -1384,7 +1384,7 @@ details {
     font-size: 3rem;
     font-weight: 700;
     display: inline-block;
-    color: $brown-complementary;
+    color: $secondary-blue;
 
     &__yorum {
         font-size: 2rem;

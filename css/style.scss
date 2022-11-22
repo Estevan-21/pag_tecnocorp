@@ -4002,13 +4002,13 @@ a.menucolor:hover {
 // img absolute
 .absoluteimg {
 	position: absolute;
-	left: 74% !important;
+	left: 72% !important;
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);
-	width: 52%;
+	width: 56%;
 	height: auto;
-	margin-top: -123px;
+	margin-top: 30px;
 }
 
 img.simg {
@@ -4246,7 +4246,7 @@ h3 a:hover {
 	text-align: center;
 	border-radius: 50%;
 	margin-bottom: 20px;
-	background: $green-complementary-2;
+	background: $main-blue
 }
 
 .analiz-alani .inner-box .icon-box i {
@@ -4263,7 +4263,7 @@ h3 a:hover {
 .analiz-alani .inner-box .icon-box:before {
 	position: absolute;
 	content: '';
-	background: $green-complementary;
+	background: $secondary-blue;
 	width: 100px;
 	height: 100px;
 	left: 0;
@@ -4333,7 +4333,7 @@ h3 a:hover {
 	font-family: Electromagnetic;
 	font-weight: 600;
 	margin-bottom: 12px;
-	color: $green-complementary-2;
+	color: $secondary-blue
 }
 
 .analiz-stil .inner-content {
@@ -4903,11 +4903,10 @@ p.countb {
 	background: $anarenk-koyu-kirmizi;
 	position: relative;
 	color: #fff;
-	background-repeat: no-repeat;
 	background-attachment: scroll;
-	background-position: center center;
-	background: $main-blue;
-	background-size: cover;
+    background-position: center center;
+    background-image: url(../img/fondo-2.png);
+    background-size: cover;
 
 	.logo {
 		width: 100%;
