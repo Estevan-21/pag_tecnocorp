@@ -166,9 +166,9 @@ body {
 }
 
 .h2-baslik-anasayfa-ozel {
-    font-family: 'Electromagnetic';
+    font-family: 'Raleway';
     font-size: 4rem;
-    font-weight: 100;
+    font-weight: 400;
     display: inline-block;
     background-image: linear-gradient(to right, #204883, #2f5b8a);
     -webkit-background-clip: text;
@@ -218,7 +218,7 @@ body {
 }
 
 .h2-baslik-anasayfa-ozel1 {
-    font-family: Electromagnetic;
+    font-family: Raleway;
     font-size: 3.3rem;
     font-weight: 400;
     display: inline-block;
@@ -382,11 +382,11 @@ body {
 }
 
 .paragraf-slider {
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: 300;
     color: #616161;
     text-align: left;
-    font-family: OpenSans;
+    font-family: Poppins;
 
     &:not(:last-child) {
         margin-bottom: 2rem;
@@ -445,9 +445,9 @@ body {
 }
 
 .baslik-3s {
-    font-family: Kodchasan-bold;
+    font-family: Raleway;
     font-size: 1.8rem;
-    font-weight: 600;
+    font-weight: 400;
     color: $yellow-complementary;
     text-align: left;
 
@@ -620,9 +620,9 @@ h2.h3-baslik-anasayfa-beyaz {
 
 .paragraf {
     font-size: 1.6rem;
-    font-weight: 400;
+    font-weight: 300;
     color: #616161;
-    font-family: OpenSans;
+    font-family: Poppins;
     text-align: justify;
 
     a {
@@ -639,9 +639,9 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .paragraf-info {
-    font-family: OpenSans;
+    font-family: Poppins;
     font-size: 1.4rem;
-    font-weight: 400;
+    font-weight: 300;
     color: #616161;
 
     a {
@@ -718,9 +718,9 @@ h2.h3-baslik-anasayfa-beyaz {
 
 
 .paragraf-sol-s {
-    font-family: OpenSans;
+    font-family: Poppins;
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 300;
     color: #FFF;
     text-align: left;
 
@@ -817,7 +817,7 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .h3-baslik-hizmet {
-    font-family: Kodchasan-bold;
+    font-family: Raleway;
     font-size: 2rem;
 
     &__paragraf {
@@ -924,7 +924,7 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .h2-baslik-hizmetler-2 {
-    font-family: Kodchasan-bold;
+    font-family: Raleway;
     font-weight: 900;
     font-size: 3.5rem;    
     display: inline-block;
@@ -961,6 +961,7 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .h2-baslik-hizmetler-21 {
+    font-family: Raleway;
     font-size: 3rem;
     font-weight: 700;
     display: inline-block;
@@ -1003,9 +1004,9 @@ h2.h3-baslik-anasayfa-beyaz {
 }
 
 .h2-baslik-hizmetler-2-s {
-    font-family: Kodchasan-bold;
+    font-family: Raleway;
     font-size: 3.4rem;
-    font-weight: 700;
+    font-weight: 400;
     display: inline-block;
     color: #ffffff;
     letter-spacing: .1rem;
@@ -1102,9 +1103,9 @@ h2.h3-baslik-anasayfa-beyaz {
     letter-spacing: .1rem;
 
     &__paragraf {
-        font-family: OpenSans;
+        font-family: Poppins;
         font-size: 2rem;
-        font-weight: 400;
+        font-weight: 300;
         color: #616161;
         text-align: center;
         margin-bottom: 1rem;
@@ -1380,7 +1381,7 @@ details {
 }
 
 .h2-baslik-hizmetler-yorum {
-    font-family: OpenSans;
+    font-family: Raleway;
     font-size: 3rem;
     font-weight: 700;
     display: inline-block;

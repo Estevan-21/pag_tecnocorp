@@ -4,6 +4,16 @@
 }
 
 @font-face {
+    font-family: 'Poppins';
+    src: url('../css/fonts/Poppins-SemiBold.ttf') format("opentype");    
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../css/fonts/Raleway-Bold.ttf') format("opentype");    
+}
+
+@font-face {
     font-family: 'Kodchasan';
     src: url('../css/fonts/Kodchasan.ttf') format("truetype");    
 }
