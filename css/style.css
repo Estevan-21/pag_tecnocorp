@@ -3876,6 +3876,7 @@ body {
   -webkit-background-clip: text;
   color: transparent;
   line-height: 1.3em;
+  font-family: "Raleway";
 }
 @media only screen and (max-width: 56.25em) {
   .h2-baslik-anasayfa-ozel-services {
@@ -13402,7 +13403,7 @@ img {
 }
 
 p {
-  font-family: OpenSans;
+  font-family: Poppins;
 }
 
 /* FORM ELEMENTS */
@@ -14540,7 +14541,7 @@ ul li ul li {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  font-family: kodchasan;
+  font-family: Raleway;
 }
 .page-header .container p {
   width: 100%;
@@ -16924,7 +16925,7 @@ img.simg {
   font-size: 1.6rem;
   text-align: center;
   font-family: Poppins;
-  font-weight: 200;
+  font-weight: 300;
 }
 .hizmet-kutu .kutu-duzen p strong {
   font-weight: 400;
@@ -17108,7 +17109,7 @@ h3 a:hover {
   border-radius: 10px;
   padding: 70px 50px 50px 50px;
   transition: all 500ms ease;
-  height: 600px;
+  height: 630px;
 }
 
 .services-special:hover .inner-box {
@@ -17170,7 +17171,7 @@ h3 a:hover {
   color: #666;
   font-size: 1.4rem;
   text-align: center;
-  height: 155px;
+  height: 190px;
 }
 
 .services-title {
