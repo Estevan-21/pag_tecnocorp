@@ -55,31 +55,31 @@
                             <span class="border border-left"></span>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="data-strategy.html">Data Strategy
+                            <li><a class="dropdown-item" href="custom-software.html">Data Strategy
                                 <span class="border border-top"></span>
                                 <span class="border border-right"></span>
                                 <span class="border border-bottom"></span>
                                 <span class="border border-left"></span>
                             </a></li>
-                            <li><a class="dropdown-item" href="machine-learning.html">Machine Learning
+                            <li><a class="dropdown-item" href="rpa.html">Machine Learning
                                 <span class="border border-top"></span>
                                 <span class="border border-right"></span>
                                 <span class="border border-bottom"></span>
                                 <span class="border border-left"></span>
                             </a></li>
-                            <li><a class="dropdown-item" href="software-solutions.html">Software Solutions
+                            <li><a class="dropdown-item" href="support-ti.html">Software Solutions
                                 <span class="border border-top"></span>
                                 <span class="border border-right"></span>
                                 <span class="border border-bottom"></span>
                                 <span class="border border-left"></span>
                             </a></li>
-                            <li><a class="dropdown-item" href="business-mind.html">Business Mind
+                            <li><a class="dropdown-item" href="user-experience.html">Business Mind
                                 <span class="border border-top"></span>
                                 <span class="border border-right"></span>
                                 <span class="border border-bottom"></span>
                                 <span class="border border-left"></span>
                             </a></li>
-                            <li><a class="dropdown-item" href="financial-services.html">Financial Services
+                            <li><a class="dropdown-item" href="consultancy.html">Financial Services
                                 <span class="border border-top"></span>
                                 <span class="border border-right"></span>
                                 <span class="border border-bottom"></span>
@@ -155,31 +155,31 @@
                     <span class="border border-left"></span>
                 </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="data-strategy.html">Data Strategy
+                        <li><a class="dropdown-item" href="custom-software.html">Data Strategy
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
                             <span class="border border-left"></span>
                         </a></li>
-                        <li><a class="dropdown-item" href="machine-learning.html">Machine Learning
+                        <li><a class="dropdown-item" href="rpa.html">Machine Learning
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
                             <span class="border border-left"></span>
                         </a></li>
-                        <li><a class="dropdown-item" href="software-solutions.html">Software Solutions
+                        <li><a class="dropdown-item" href="support-ti.html">Software Solutions
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
                             <span class="border border-left"></span>
                         </a></li>
-                        <li><a class="dropdown-item" href="business-mind.html">Business Mind
+                        <li><a class="dropdown-item" href="user-experience.html">Business Mind
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
                             <span class="border border-left"></span>
                         </a></li>
-                        <li><a class="dropdown-item" href="financial-services.html">Financial Services
+                        <li><a class="dropdown-item" href="consultancy.html">Financial Services
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
@@ -298,11 +298,11 @@
                       <div class="col-lg-2 offset-xl-1 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
                         <h6 class="widget-title">Services</h6>
                         <ul class="footer-menu">
-                            <li><a href="data-strategy.html">Data Strategy</a></li>
-                            <li><a href="machine-learning.html">Machine Learning</a></li>
-                            <li><a href="software-solutions.html">Software Solutions</a></li>
-                            <li><a href="business-mind.html">Business Mind</a></li>
-                            <li><a href="financial-services.html">Financial Services</a></li>
+                            <li><a href="custom-software.html">Data Strategy</a></li>
+                            <li><a href="rpa.html">Machine Learning</a></li>
+                            <li><a href="support-ti.html">Software Solutions</a></li>
+                            <li><a href="user-experience.html">Business Mind</a></li>
+                            <li><a href="consultancy.html">Financial Services</a></li>
                             <li><a href="data-security.html">Data Security</a></li>
                         </ul>
                       </div>
