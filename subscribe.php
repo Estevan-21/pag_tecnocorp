@@ -93,7 +93,7 @@
                             </a></li>
                             </ul>
                     </li>
-                    <li><a href="projects.html">Projects
+                    <li><a href="products.html">Projects
                         <span class="border border-top"></span>
                         <span class="border border-right"></span>
                         <span class="border border-bottom"></span>
@@ -193,7 +193,7 @@
                         </a></li>
                         </ul>
                 </li>
-                <li><a href="projects.html">Projects
+                <li><a href="products.html">Projects
                     <span class="border border-top"></span>
                     <span class="border border-right"></span>
                     <span class="border border-bottom"></span>
@@ -312,7 +312,7 @@
                         <ul class="footer-menu">
                             <li><a href="index.html">Home</a></li>
                             <li><a href="about-us.html">About Us</a></li>
-                            <li><a href="projects.html">Projects</a></li>
+                            <li><a href="products.html">Projects</a></li>
                             <li><a href="packages.html">Packages</a></li>
                             <li><a href="blog.html">Blog</a></li>
                             <li><a href="contact-us.html">Contact</a></li>
