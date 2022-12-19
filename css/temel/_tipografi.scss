@@ -193,7 +193,7 @@ body {
     -webkit-background-clip: text;
     color: transparent;
     line-height: 1.3em;
-    font-family: 'Raleway';
+    font-family: 'Raleway'; 
 
     @include responsive(tablet-kucuk) {
         font-size: 5rem;

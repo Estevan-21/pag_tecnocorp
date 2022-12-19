@@ -14182,6 +14182,7 @@ button[type=submit] i {
   flex-wrap: wrap;
   margin: 0;
   padding: 0;
+  background: #00008B;
 }
 .navbar .site-menu ul li {
   display: inline-block;
@@ -14189,6 +14190,7 @@ button[type=submit] i {
   padding: 0 14px;
   list-style: none;
   transition: all 0.35s ease-in-out;
+  background: #00008B;
 }
 .navbar .site-menu ul li a {
   font-family: Raleway;
@@ -14200,6 +14202,7 @@ button[type=submit] i {
 .navbar .site-menu ul li a:hover {
   text-decoration: none;
   color: #fff;
+  background: #00008B;
 }
 .navbar .hamburger-menu {
   margin-left: auto;

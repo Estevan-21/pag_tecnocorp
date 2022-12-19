@@ -993,6 +993,7 @@ button[type="submit"] {
 			flex-wrap: wrap;
 			margin: 0;
 			padding: 0;
+			background: $main-blue;
 
 			li {
 				display: inline-block;
@@ -1000,6 +1001,7 @@ button[type="submit"] {
 				padding: 0 14px;
 				list-style: none;
 				@include transition;
+				background: $main-blue;
 
 				a {
 					font-family: Raleway;
@@ -1011,6 +1013,7 @@ button[type="submit"] {
 					&:hover {
 						text-decoration: none;
 						color: #fff;
+						background: $main-blue;
 					}
 				}
 			}
